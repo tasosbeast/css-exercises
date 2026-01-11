@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.class {
+  background-color: #ffb6c1;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#another {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
