@@ -54,14 +54,9 @@ ul {
   gap: 10px;
 }
 
+.right,
 .left {
   display: flex;
   align-items: center;
-  gap: 10px;
-}
-
-.right {
-  display: flex;
-  align-items: center;
-  gap: 10px;
+  gap: 16px;
 }
